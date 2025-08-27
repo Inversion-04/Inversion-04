@@ -3,14 +3,14 @@
 💻 **B.Tech Student | Problem Solver | Aspiring Software Developer**  
 
 - 🌱 Currently improving my **Data Structures & Algorithms** (Java)  
-- 🏆 Active on **LeetCode** (Username: [yashBansal](https://leetcode.com/u/yasl1/))
-- 🏆 Active on **CodeForces** (Username: [yashBasnal](https://codeforces.com/profile/yashbansal99))  
+- 🏆 Active on **LeetCode** (Username: [Ritik-Saxena](https://leetcode.com/u/Ritik-Saxena/))
+- 🏆 Active on **CodeForces** (Username: [Ritik_Saxena](https://codeforces.com/profile/Ritik_Saxena))  
 - 🚀 Exploring **Web Development** and building personal projects  
 - 📚 Love learning about **system design, databases, and clean code**  
 
 <div>
-  <a href="mailto:yashbansal.2099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yashbansal.2099@gmailcom-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:ritiksaxena164@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ritiksaxena164@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 </div>
 
 ## 📊 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanab-1&show_icons=true&theme=tokyonight)  
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanab-1&show_icons=true&theme=tokyonight)  
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=yanab-1&theme=tokyonight&hide_border=true)  
@@ -48,10 +48,10 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-bansal-b093172a1/) 
-- 📝 [LeetCode](https://leetcode.com/u/yasl1/)
-- 📝 [CodeForces](https://codeforces.com/profile/yashbansal99)  
-- 📧 Email: yashbansal.2099@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ritik-saxena-b548722b5/) 
+- 📝 [LeetCode](https://leetcode.com/u/Ritik-Saxena/)
+- 📝 [CodeForces](https://codeforces.com/profile/Ritik_Saxena)  
+- 📧 Email: ritiksaxena164@gmail.com
 
 ---
-⭐️ From [yanab-1](https://github.com/yanab-1)
+⭐️ From [Inversion-04](https://github.com/Inversion-04)
