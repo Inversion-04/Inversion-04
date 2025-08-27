@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yash Bansal  
+# 👋 Hi, I'm Ritik Saxena
 
 💻 **B.Tech Student | Problem Solver | Aspiring Software Developer**  
 
